@@ -1,0 +1,1 @@
+Least Price Product: { brand: 'YK X Minute Mirth', name: 'Boys Cotton Tshirts', price: 215 }

@@ -1,0 +1,18 @@
+{
+  "employees": [
+    {
+      "id": "E007",
+      "name": "John Doe",
+      "age": 30,
+      "salary": 50000,
+      "address": "123 Main Street, Chennai"
+    },
+    {
+      "id": "E008",
+      "name": "Jane Smith",
+      "age": 28,
+      "salary": 60000,
+      "address": "456 Park Avenue, Madurai"
+    }
+  ]
+}
